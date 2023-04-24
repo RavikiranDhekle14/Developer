@@ -50,6 +50,8 @@ public class Employee {
 		for (int i = 0; i<emp.length; i++)	
 		{
 			System.out.println(emp[i]);
+			System.out.println("...................");
+
 		}
 
 	}
